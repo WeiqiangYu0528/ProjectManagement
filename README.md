@@ -1,4 +1,4 @@
-# Projec tManagement
+# Project Management
 Project Management project using React, Node.js, Express.js, MongoDB, GraphQL, Apollo Client
 ## Usage
 
